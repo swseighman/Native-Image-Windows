@@ -20,7 +20,7 @@ layout: page
 
 6. Open the Visual Studio Installer
 
-  <img src="images/vsinstaller.png">
+  ![](images/vsinstaller.png)
 
 
 7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
