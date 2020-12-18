@@ -42,7 +42,7 @@ layout: page
      Java(TM) SE Runtime Environment GraalVM EE 20.3.0 (build 11.0.9+7-LTS-jvmci-20.3-b06)
      Java HotSpot(TM) 64-Bit Server VM GraalVM EE 20.3.0 (build 11.0.9+7-LTS-jvmci-20.3-b06, mixed mode, sharing)
      ```
-</br>
+
 23.    [Download the native-image module](https://www.oracle.com/downloads/graalvm-downloads.html#license-lightbox)
 
 
@@ -50,7 +50,7 @@ layout: page
 
      C:\\\> **gu -L install .\native-image-installable-svm-svmee-java11-windows-amd64-20.3.0.jar**	
 
-</br>
+
 
 32. Check for installed modules
 
@@ -62,7 +62,7 @@ layout: page
       graalvm                 20.3.0              GraalVM Core
       native-image            20.3.0              Native Image
     ```
-</br>
+
 
 50. Open a Windows command prompt to start a Visual Studio Dev session:
 
@@ -80,7 +80,7 @@ layout: page
 
 	![](images/vscmd.png)
 
-</br>
+
 
 66. Create a basic application called `HelloWorld.java`:
 
@@ -129,7 +129,7 @@ layout: page
      C:\\\> **helloworld**      
     _Hello, GraalVM Native Image!_
 
-</br>
+
 
 
 116. Measure Startup Time (_using PowerShell_):
@@ -151,7 +151,7 @@ layout: page
       ```
     
 	
-</br>
+
 	
 	
 <h3>Micronaut Example</h3>
@@ -167,7 +167,7 @@ Install using instructions [here](https://micronaut-projects.github.io/micronaut
 
 Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/micronaut-creating-first-graal-app/guide/index.html).
   
-</br>
+
 
 <h3>Polyglot Example</h3>
 
