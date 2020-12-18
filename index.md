@@ -19,8 +19,7 @@ layout: page
 5. Install Visual Studio 2019 16.8.x (Community will work)
 
 6. Open the Visual Studio Installer
-
-    ![](images/vsinstaller.png)
+  ![](images/vsinstaller.png)
 
 
 7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
