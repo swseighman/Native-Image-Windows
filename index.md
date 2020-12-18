@@ -19,16 +19,17 @@ layout: page
 5. Install Visual Studio 2019 16.8.x (Community will work)
 
 6. Open the Visual Studio Installer
-  ![](images/vsinstaller.png)
+
+    ![](images/vsinstaller.png)
 
 
 7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
   ![](images/vsmodify.png)
   
-  ![](images/scomponents.png)
+    ![](images/scomponents.png)
 11. Scroll to the bottom and make certain ‘**Windows 10 SDK**’ is installed
 
-  ![](images/vsdk.png)
+    ![](images/vsdk.png)
   
 13. Follow the [GraalVM install instructions for Windows](https://docs.oracle.com/en/graalvm/enterprise/20/docs/getting-started/installation-windows/)
 
