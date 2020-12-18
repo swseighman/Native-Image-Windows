@@ -5,7 +5,7 @@
 layout: page
 ---
 
-##GraalVM Native Image 20.3.0 and Basic Demos on Windows 10
+<h2>GraalVM Native Image 20.3.0 and Basic Demos on Windows 10</h2>
 
 
 
@@ -24,6 +24,7 @@ layout: page
 
 7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
   ![](images/vsmodify.png)
+  
   ![](images/scomponents.png)
 11. Scroll to the bottom and make certain ‘**Windows 10 SDK**’ is installed
 
@@ -40,7 +41,7 @@ layout: page
      Java(TM) SE Runtime Environment GraalVM EE 20.3.0 (build 11.0.9+7-LTS-jvmci-20.3-b06)
      Java HotSpot(TM) 64-Bit Server VM GraalVM EE 20.3.0 (build 11.0.9+7-LTS-jvmci-20.3-b06, mixed mode, sharing)
      ```
-
+</br>
 23.    [Download the native-image module](https://www.oracle.com/downloads/graalvm-downloads.html#license-lightbox)
 
 
@@ -48,7 +49,7 @@ layout: page
 
      C:\\\> **gu -L install .\native-image-installable-svm-svmee-java11-windows-amd64-20.3.0.jar**	
 
-
+</br>
 
 32. Check for installed modules
 
@@ -60,7 +61,7 @@ layout: page
       graalvm                 20.3.0              GraalVM Core
       native-image            20.3.0              Native Image
     ```
-
+</br>
 
 50. Open a Windows command prompt to start a Visual Studio Dev session:
 
@@ -78,7 +79,7 @@ layout: page
 
 	![](images/vscmd.png)
 
-
+</br>
 
 66. Create a basic application called `HelloWorld.java`:
 
@@ -127,7 +128,7 @@ layout: page
      C:\\\> **helloworld**      
     _Hello, GraalVM Native Image!_
 
-
+</br>
 
 
 116. Measure Startup Time (_using PowerShell_):
@@ -149,10 +150,10 @@ layout: page
       ```
     
 	
-
+</br>
 	
 	
-**Micronaut Example**
+<h3>Micronaut Example</h3>
 
 Install Micronaut using Chocolatey:
 
@@ -163,11 +164,12 @@ or
 Install using instructions [here](https://micronaut-projects.github.io/micronaut-starter/latest/guide/index.html#installWindows). 
 
 
-
+Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/micronaut-creating-first-graal-app/guide/index.html).
   
+</br>
 
+<h3>Polyglot Example</h3>
 
-**Polyglot Example**
 
 1. Edit source (`PrettyPrintJSON.java`):
 
