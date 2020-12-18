@@ -13,7 +13,7 @@ layout: page
 
 	C:\\\> **choco install -y windows-sdk-10 kb2919442**
 
-	or
+	or 
 
 4. Install the Windows SDK Using Visual Studio Code
 5. Install Visual Studio 2019 16.8.x (Community will work)
