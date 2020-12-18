@@ -5,7 +5,7 @@
 layout: page
 ---
 
-GraalVM Native Image 20.3.0 and Basic Demos on Windows 10
+##GraalVM Native Image 20.3.0 and Basic Demos on Windows 10
 
 
 
@@ -20,15 +20,15 @@ GraalVM Native Image 20.3.0 and Basic Demos on Windows 10
 
 6. Open the Visual Studio Installer
 
-    ![](/_site/images/vsinstaller.png)
+    ![](../images/vsinstaller.png)
 
 
 7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
-  ![](_site/images/vsmodify.png)
-  ![](_site/images/scomponents.png)
+  ![](../images/vsmodify.png)
+  ![](../images/scomponents.png)
 11. Scroll to the bottom and make certain ‘**Windows 10 SDK**’ is installed
 
-  ![](_site/images/vsdk.png)
+  ![](../images/vsdk.png)
   
 13. Follow the [GraalVM install instructions for Windows](https://docs.oracle.com/en/graalvm/enterprise/20/docs/getting-started/installation-windows/)
 
@@ -77,7 +77,7 @@ GraalVM Native Image 20.3.0 and Basic Demos on Windows 10
 
 64. Or launch a Dev command prompt (via Visual Studio 2019):
 
-	![](_site/images/vscmd.png)
+	![](../images/vscmd.png)
 
 
 
