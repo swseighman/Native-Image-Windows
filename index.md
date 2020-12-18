@@ -150,7 +150,8 @@ layout: page
       TotalSeconds      : 0.0038
       TotalMilliseconds : 3.8
       ```
-    
+
+ <br />   
 	
 
 	
@@ -163,12 +164,12 @@ C:\\\> **choco install -y micronaut**
 
 or
 
-Install using instructions [here](https://micronaut-projects.github.io/micronaut-starter/latest/guide/index.html#installWindows). 
+Install using instructions [here](https://micronaut-projects.github.io/micronaut-starter/latest/guide/index.html#installWindows).  
 
 
 Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/micronaut-creating-first-graal-app/guide/index.html). 
   
-
+<br />
 
 <h3>Polyglot Example</h3>
 <hr /><br />
