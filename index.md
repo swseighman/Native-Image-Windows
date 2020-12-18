@@ -5,8 +5,9 @@
 layout: page
 ---
 
-<h2>GraalVM Native Image 20.3.0 and Basic Demos on Windows 10</h2>
-
+<h2>GraalVM Native Image on Windows 10</h2>
+<h3>Steps for Installation and Basic Demos</h3>  
+<br />
 
 
 1. Install the Windows SDK Using Chocolatey:
