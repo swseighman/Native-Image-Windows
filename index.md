@@ -156,7 +156,7 @@ layout: page
 	
 	
 <h3>Micronaut Example</h3>
-<hr />
+<hr /><br />
 Install Micronaut using Chocolatey:
 
 C:\\\> **choco install -y micronaut**
@@ -171,7 +171,8 @@ Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/microna
 
 
 <h3>Polyglot Example</h3>
-<hr />
+<hr /><br />
+
 
 1. Create a file called `PrettyPrintJSON.java`: 
 
