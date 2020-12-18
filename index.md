@@ -7,8 +7,8 @@ layout: page
 
 <h2>GraalVM Native Image on Windows 10</h2>
 <h3>Steps for Installation and Running Basic Demos</h3>  
-<br />  
-
+<hr>
+<br />
 
 1. Install the Windows SDK Using Chocolatey:
 
@@ -173,7 +173,7 @@ Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/microna
 <h3>Polyglot Example</h3>
 
 
-1. Edit source (`PrettyPrintJSON.java`):
+1. Create a file called `PrettyPrintJSON.java`:
 
 
  ```java
