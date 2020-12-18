@@ -34,7 +34,7 @@ layout: page
   
 13. Follow the [GraalVM install instructions for Windows](https://docs.oracle.com/en/graalvm/enterprise/20/docs/getting-started/installation-windows/)
 
-15. Verify the GraalVM install
+15. Verify the GraalVM install  
 
      C:\\\> **java -version**
 
