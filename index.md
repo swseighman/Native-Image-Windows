@@ -173,7 +173,7 @@ Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/microna
 <h3>Polyglot Example</h3>
 <hr />
 
-1. Create a file called `PrettyPrintJSON.java`:
+1. Create a file called `PrettyPrintJSON.java`: 
 
 
  ```java
