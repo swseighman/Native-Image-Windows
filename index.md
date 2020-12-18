@@ -16,15 +16,15 @@ layout: page
 
 	or 
 
-4. Install the Windows SDK Using Visual Studio Code
-5. Install Visual Studio 2019 16.8.x (Community will work)
+    Install the Windows SDK Using Visual Studio Code
+2. Install Visual Studio 2019 16.8.x (Community will work)
 
-6. Open the Visual Studio Installer
+3. Open the Visual Studio Installer 
 
     ![](images/vsinstaller.png)
 
 
-7. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
+4. Under the ‘**Installed**’ tab, click on the ‘**Modify**’ button and choose ‘**Individual Components**’
   ![](images/vsmodify.png)
   
     ![](images/scomponents.png)
@@ -96,7 +96,7 @@ layout: page
 
 67. Compile
   
-	C:\\\> **javac HelloWorld**
+	C:\\\> **javac HelloWorld.java**
 
 
 
