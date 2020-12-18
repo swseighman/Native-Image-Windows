@@ -124,7 +124,7 @@ layout: page
      ```
 
 
-107. Run the Native Image version
+107. Run the Native Image version 
 
 
      C:\\\> **helloworld**      
@@ -175,7 +175,7 @@ Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/microna
 <hr /><br />
 
 
-1. Create a file called `PrettyPrintJSON.java`: 
+1. Create a file called `PrettyPrintJSON.java`:  
 
 
  ```java
