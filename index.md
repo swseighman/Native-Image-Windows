@@ -166,7 +166,7 @@ or
 Install using instructions [here](https://micronaut-projects.github.io/micronaut-starter/latest/guide/index.html#installWindows). 
 
 
-Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/micronaut-creating-first-graal-app/guide/index.html).
+Follow the Micronaut/GraalVM tutorial [here](https://guides.micronaut.io/micronaut-creating-first-graal-app/guide/index.html). 
   
 
 
