@@ -1,3 +1,7 @@
+---
+layout: 
+---
+
 <h2>GraalVM Native Image on Windows 10</h2>
 <h3>Steps for Installation and Running Basic Demos</h3>  
 <hr />
@@ -32,7 +36,7 @@
      C:\\\> **java -version**
 
      ```
-     java version "1.8.0_271"
+     java version 1.8.0_271
 Java(TM) SE Runtime Environment (build 1.8.0_271-b09)
 Java HotSpot(TM) 64-Bit Server VM GraalVM EE 20.3.0 (build 25.271-b09-jvmci-20.3-b06, mixed mode)
      ```
