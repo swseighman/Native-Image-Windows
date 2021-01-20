@@ -46,7 +46,7 @@ Java HotSpot(TM) 64-Bit Server VM GraalVM EE 20.3.0 (build 25.271-b09-jvmci-20.3
      
      You may need to use the absolute path to **gu**, in this example:
      
-	 C:\\\> **C:\Progra~1\Java\graalvm-ee-java8-20.3.0\bin\gu install -L *path-to-file*\native-image-installable-svm-svmee-java8-windows-amd64-20.3.0.jar**
+	 **C:\Progra~1\Java\graalvm-ee-java8-20.3.0\bin\gu install -L *path-to-file*\native-image-installable-svm-svmee-java8-windows-amd64-20.3.0.jar**
 
 
 32. Check for installed modules
