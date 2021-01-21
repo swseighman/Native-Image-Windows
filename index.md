@@ -45,7 +45,7 @@ Java HotSpot(TM) 64-Bit Server VM GraalVM EE 20.3.0 (build 25.271-b09-jvmci-20.3
 
 26. Install the native-image module
 
-     C:\\\> **gu -L install .\native-image-installable-svm-svmee-java11-windows-amd64-20.3.0.jar**	
+     C:\\\> **gu -L install .\native-image-installable-svm-svmee-java8-windows-amd64-20.3.0.jar**	
      
      You may need to use the absolute path to **gu**, in this example:
      
