@@ -12,7 +12,7 @@
 
 	or 
 
-    Install the Windows SDK Using Visual Studio Code
+    Install the Windows SDK Using Visual Studio Code (see below)
 2. Install Visual Studio 2019 16.8.x (Community will work)
 
 3. Open the Visual Studio Installer 
